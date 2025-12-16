@@ -52,8 +52,3 @@ Each project represents an experiment, a lesson learned, or a new way of thinkin
 - Combine data analysis with automation and tooling
 - Build a solid portfolio focused on quality, not quantity
 
----
-
-## 📫 Contact
-- **LinkedIn:** https://www.linkedin.com/in/bohdan-ostapovych-41a3512b7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BKRRgjIdAQXmY3CR30LMw1Q%3D%3D
-- **Email:** ostapovyyych@icloud.com
